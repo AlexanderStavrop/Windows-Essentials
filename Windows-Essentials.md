@@ -39,6 +39,7 @@
 - <a href="https://github.com/popcorn-official/popcorn-desktop/releases">Popcorn Time</a>
 - <a href="https://www.python.org/downloads/">Python</a>
 - <a href="https://www.qbittorrent.org/download.php">qbtorrent</a>
+- <a href="https://www.razer.com/synapse-3">Razer Synapse</a>
 - <a href="https://signal.org/en/download/windows/">Signal</a>
 - <a href="https://www.spotify.com/us/download/windows/">Spotify</a>
 - <a href="https://www.videolan.org/vlc/download-windows.html">VLC</a>
