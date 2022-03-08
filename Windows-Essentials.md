@@ -17,7 +17,7 @@
 ## Programming / Editors 
 - <a href="https://www.arduino.cc/en/software">Arduino</a> 
 - <a href="https://www.jetbrains.com/clion/download/download-thanks.html?platform=windows">Clion</a>
-- <a href="hhttps://www.jetbrains.com/idea/download/download-thanks.html?platform=windows">Intellij idea</a>
+- <a href="https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows">Intellij idea</a>
 - <a href="https://matlab.mathworks.com/">Matlab</a>
 - <a href="https://joplinapp.org/download//">Joplin</a>
 - <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
