@@ -18,10 +18,11 @@
 - <a href="https://www.arduino.cc/en/software">Arduino</a> 
 - <a href="https://www.jetbrains.com/clion/download/download-thanks.html?platform=windows">Clion</a>
 - <a href="https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows">Intellij idea</a>
-- <a href="https://matlab.mathworks.com/">Matlab</a>
 - <a href="https://joplinapp.org/download//">Joplin</a>
+- <a href="https://matlab.mathworks.com/">Matlab</a>
 - <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
 - <a href="https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows">Pycharm</a>
+- <a href="https://www.jetbrains.com/rider/download/download-thanks.html?platform=windows">Rider</a>
 - <a href="https://www.texstudio.org/">TeXstudio</a>
 
 ## Other
