@@ -24,6 +24,7 @@
 - <a href="https://matlab.mathworks.com/">Matlab</a>
 - <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
 - <a href="https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows">Pycharm</a>
+  - <a href="https://www.python.org/downloads/">Python</a>
 - <a href="https://www.jetbrains.com/rider/download/download-thanks.html?platform=windows">Rider</a>
 - <a href="https://www.texstudio.org/">TeXstudio</a>
 
@@ -32,7 +33,6 @@
 - <a href="https://www.petges.lu/download/">Attribute Changer</a>
 - <a href="https://www.google.com/chrome/">Chrome</a>
 - <a href="https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86">Discord</a>
-- <a href="https://www.oracle.com/java/technologies/downloads/">JDK</a>
 - <a href="https://www.cpuid.com/softwares/hwmonitor.html">Hw monitor</a>
 - <a href="https://miktex.org/download">MikTeX</a>
 - <a href="https://www.mozilla.org/en-US/firefox/download/thanks/">Firefox</a>
@@ -40,7 +40,6 @@
 - <a href="https://www.nvidia.com/download/driverResults.aspx/86510/">Nvidia Drivers</a>
 - <a href="https://obsproject.com/">Obs</a>
 - <a href="https://github.com/popcorn-official/popcorn-desktop/releases">Popcorn Time</a>
-- <a href="https://www.python.org/downloads/">Python</a>
 - <a href="https://www.qbittorrent.org/download.php">qbtorrent</a>
 - <a href="https://www.razer.com/synapse-3">Razer Synapse</a>
 - <a href="https://signal.org/en/download/windows/">Signal</a>
