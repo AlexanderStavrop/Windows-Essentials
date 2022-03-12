@@ -6,7 +6,7 @@
 - <a href="https://www.dev47apps.com/droidcam/windows/">Droidcam</a>
 - <a href="https://epicpen.com/">Epic Pen</a>
 - <a href="https://www.voidtools.com/downloads/">Everything</a>
-- <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a>
+  - <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a>
 - <a href="https://justgetflux.com/">Flux</a>
 - <a href="https://git-scm.com/downloads">Git bash</a>
 - <a href="https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe">Google Drive</a>
