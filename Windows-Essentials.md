@@ -40,7 +40,7 @@
 - <a href="https://obsproject.com/">Obs</a>
   - <a href="https://obsproject.com/forum/threads/laptop-black-screen-when-capturing-read-here-first.5965/">Black screen problem</a>
 - <a href="https://github.com/popcorn-official/popcorn-desktop/releases">Popcorn Time</a>
-  - API: 'https://popcorn-ru.tk/' 
+  - API: "https://popcorn-ru.tk/"
 - <a href="https://www.qbittorrent.org/download.php">qbtorrent</a>
 - <a href="https://www.razer.com/synapse-3">Razer Synapse</a>
 - <a href="https://signal.org/en/download/windows/">Signal</a>
@@ -48,5 +48,3 @@
 - <a href="https://www.videolan.org/vlc/download-windows.html">VLC</a>
 - <a href="https://www.win-rar.com/download.html?&L=0">WinRAR</a>
 - <a href="https://zoom.us/download">Zoom</a>
-
-md.linkify.set({ fuzzyLink: false });  // disables converting URL without http(s):// head  to link
