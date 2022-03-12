@@ -48,3 +48,5 @@
 - <a href="https://www.videolan.org/vlc/download-windows.html">VLC</a>
 - <a href="https://www.win-rar.com/download.html?&L=0">WinRAR</a>
 - <a href="https://zoom.us/download">Zoom</a>
+
+md.linkify.set({ fuzzyLink: false });  // disables converting URL without http(s):// head  to link
