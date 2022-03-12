@@ -38,6 +38,7 @@
 - <a href="https://www.microsoft.com/en-us/p/netflix/9wzdncrfj3tj#activetab=pivot:overviewtab">Netflix</a>
 - <a href="https://www.nvidia.com/download/driverResults.aspx/86510/">Nvidia Drivers</a>
 - <a href="https://obsproject.com/">Obs</a>
+  - <a href="https://obsproject.com/forum/threads/laptop-black-screen-when-capturing-read-here-first.5965/">Black screen problem</a>
 - <a href="https://github.com/popcorn-official/popcorn-desktop/releases">Popcorn Time</a>
 - <a href="https://www.qbittorrent.org/download.php">qbtorrent</a>
 - <a href="https://www.razer.com/synapse-3">Razer Synapse</a>
