@@ -40,7 +40,7 @@
 - <a href="https://obsproject.com/">Obs</a>
   - <a href="https://obsproject.com/forum/threads/laptop-black-screen-when-capturing-read-here-first.5965/">Black screen problem</a>
 - <a href="https://github.com/popcorn-official/popcorn-desktop/releases">Popcorn Time</a>
-  - <div style="display: inline">API: https://popcorn-ru.tk/</div>
+  - API: https://popcorn-ru.tk/
 - <a href="https://www.qbittorrent.org/download.php">qbtorrent</a>
 - <a href="https://www.razer.com/synapse-3">Razer Synapse</a>
 - <a href="https://signal.org/en/download/windows/">Signal</a>
