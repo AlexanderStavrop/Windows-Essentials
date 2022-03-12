@@ -27,6 +27,7 @@
   - <a href="https://www.python.org/downloads/">Python</a>
 - <a href="https://www.jetbrains.com/rider/download/download-thanks.html?platform=windows">Rider</a>
 - <a href="https://www.texstudio.org/">TeXstudio</a>
+  - <a href="https://miktex.org/download">MikTeX</a>
 
 ## Other
 - <a href="https://anydesk.com/en/downloads/windows">Any desk</a>
@@ -34,7 +35,6 @@
 - <a href="https://www.google.com/chrome/">Chrome</a>
 - <a href="https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86">Discord</a>
 - <a href="https://www.cpuid.com/softwares/hwmonitor.html">Hw monitor</a>
-- <a href="https://miktex.org/download">MikTeX</a>
 - <a href="https://www.mozilla.org/en-US/firefox/download/thanks/">Firefox</a>
 - <a href="https://www.microsoft.com/en-us/p/netflix/9wzdncrfj3tj#activetab=pivot:overviewtab">Netflix</a>
 - <a href="https://www.nvidia.com/download/driverResults.aspx/86510/">Nvidia Drivers</a>
