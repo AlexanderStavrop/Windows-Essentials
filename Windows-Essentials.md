@@ -29,7 +29,7 @@
 - <a href="https://www.texstudio.org/">TeXstudio</a>
   - <a href="https://miktex.org/download">MikTeX</a>
 
-## Other
+## Others
 - <a href="https://anydesk.com/en/downloads/windows">Any desk</a>
 - <a href="https://www.petges.lu/download/">Attribute Changer</a>
 - <a href="https://www.google.com/chrome/">Chrome</a>
@@ -48,3 +48,5 @@
 - <a href="https://www.videolan.org/vlc/download-windows.html">VLC</a>
 - <a href="https://www.win-rar.com/download.html?&L=0">WinRAR</a>
 - <a href="https://zoom.us/download">Zoom</a>
+
+## General Configuration
