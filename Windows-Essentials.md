@@ -50,3 +50,4 @@
 - <a href="https://zoom.us/download">Zoom</a>
 
 ## General Configuration
+- <a href="https://www.reddit.com/r/wallpaper/top/?t=all">Wallpaper</a>
