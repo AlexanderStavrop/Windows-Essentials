@@ -13,6 +13,8 @@
 - <a href="https://mh-nexus.de/en/hxd/">HxD</a>
 - <a href="https://app.prntscr.com/build/setup-lightshot.exe">Lightshot</a>
 - <a href="https://github.com/microsoft/PowerToys/releases">Power Toys</a>
+- <a href="https://github.com/yt-dlp/yt-dlp#release-files">Yt-dlp</a>
+  - fasdf
 
 ## Programming / Editors 
 - <a href="https://www.arduino.cc/en/software">Arduino</a> 
