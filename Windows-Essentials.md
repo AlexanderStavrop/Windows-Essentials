@@ -1,8 +1,8 @@
 # Windows
 
 ## Tools
-<a href="https://stefansundin.github.io/altdrag/">Alt drag</a> 
-<a href="https://ditto-cp.sourceforge.io/">Ditto</a>
+- <a href="https://stefansundin.github.io/altdrag/">Alt drag</a> 
+- <a href="https://ditto-cp.sourceforge.io/">Ditto</a>
 - <a href="https://www.dev47apps.com/droidcam/windows/">Droidcam</a>
 - <a href="https://epicpen.com/">Epic Pen</a>
 - <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a>
