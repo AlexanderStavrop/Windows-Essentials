@@ -46,9 +46,7 @@
 - <a href="https://signal.org/en/download/windows/">Signal</a>
 - <a href="https://www.spotify.com/us/download/windows/">Spotify</a>
 - <a href="https://www.videolan.org/vlc/download-windows.html">VLC</a>
+- <a href="https://www.reddit.com/r/wallpaper/top/?t=all">Wallpaper</a>
 - <a href="https://www.win-rar.com/download.html?&L=0">WinRAR</a>
 - <a href="https://diskanalyzer.com/download">WizTree</a>
 - <a href="https://zoom.us/download">Zoom</a>
-
-## General Configuration
-- <a href="https://www.reddit.com/r/wallpaper/top/?t=all">Wallpaper</a>
