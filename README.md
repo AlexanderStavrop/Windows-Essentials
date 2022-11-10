@@ -1,5 +1,9 @@
 # Windows-Essentials
-A repostitory containing all the needed tools and programs for a good windows setup.
+
+## Check for updates and drivers
+- Search for **Updates** and select **Check of updates**
+  - Press **Check for updates** and wait for the necessary updates to download 
+  - Press **View option updates** and check the box of every update that looks useful
 
 ## Tools
 - <a href="https://stefansundin.github.io/altdrag/">Alt drag</a> 
@@ -31,6 +35,12 @@ A repostitory containing all the needed tools and programs for a good windows se
   - <a href="https://miktex.org/download">MikTeX</a>
 
 ## Others
+- Firefox
+    - Download
+    - Set us default browser
+    - Sign in to the firefox account
+
+
 - <a href="https://anydesk.com/en/downloads/windows">Any desk</a>
 - <a href="https://www.petges.lu/download/">Attribute Changer</a>
 - <a href="https://www.google.com/chrome/">Chrome</a>
