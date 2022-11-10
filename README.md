@@ -6,13 +6,11 @@
   - Press **View option updates** and check the box of every update that looks useful
 
 ## Tools
-- <a href="https://stefansundin.github.io/altdrag/">Alt drag</a> 
 - <a href="https://ditto-cp.sourceforge.io/">Ditto</a>
 - <a href="https://www.dev47apps.com/droidcam/windows/">Droidcam</a>
 - <a href="https://epicpen.com/">Epic Pen</a>
 - <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a>
   - <a href="https://www.voidtools.com/downloads/">Everything</a>
-- <a href="https://justgetflux.com/">Flux</a>
 - <a href="https://git-scm.com/downloads">Git bash</a>
 - <a href="https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe">Google Drive</a>
 - <a href="https://mh-nexus.de/en/hxd/">HxD</a>
@@ -25,12 +23,8 @@
 - <a href="https://www.arduino.cc/en/software">Arduino</a> 
 - <a href="https://www.jetbrains.com/clion/download/download-thanks.html?platform=windows">Clion</a>
 - <a href="https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows">Intellij idea</a>
-- <a href="https://joplinapp.org/download//">Joplin</a>
 - <a href="https://matlab.mathworks.com/">Matlab</a>
 - <a href="https://notepad-plus-plus.org/downloads/">Notepad++</a>
-- <a href="https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows">Pycharm</a>
-  - <a href="https://www.python.org/downloads/">Python</a>
-- <a href="https://www.jetbrains.com/rider/download/download-thanks.html?platform=windows">Rider</a>
 - <a href="https://www.texstudio.org/">TeXstudio</a>
   - <a href="https://miktex.org/download">MikTeX</a>
 
