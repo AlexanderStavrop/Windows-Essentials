@@ -1,5 +1,4 @@
 # Windows-Essentials
-<a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>
 
 ## Check for updates and drivers
 - Search for **Updates** and select **Check of updates**
