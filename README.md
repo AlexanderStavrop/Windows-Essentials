@@ -6,7 +6,7 @@
   - Press **View option updates** and check the box of every update that looks useful
 
 ## Tools
-- <a href="https://ditto-cp.sourceforge.io/">Ditto</a>
+- <a href="https://ditto-cp.sourceforge.io/" target="_blank">Ditto</a>
 - <a href="https://www.dev47apps.com/droidcam/windows/">Droidcam</a>
 - <a href="https://epicpen.com/">Epic Pen</a>
 - <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a>
