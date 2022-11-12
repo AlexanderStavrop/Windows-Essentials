@@ -33,8 +33,6 @@
     - Download
     - Set us default browser
     - Sign in to the firefox account
-
-
 - <a href="https://anydesk.com/en/downloads/windows">Any desk</a>
 - <a href="https://www.petges.lu/download/">Attribute Changer</a>
 - <a href="https://www.google.com/chrome/">Chrome</a>
