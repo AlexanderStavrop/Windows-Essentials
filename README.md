@@ -2,16 +2,30 @@
 
 ## Check for updates and drivers
 - Search for **Updates** and select **Check of updates**
-  - Press **Check for updates** and wait for the necessary updates to download 
-  - Press **View option updates** and check the box of every update that looks useful
+    - Press **Check for updates** and wait for the necessary updates to download 
+    - Press **View option updates** and check the box of every update that looks useful
 
 ## Tools
 - <a href="https://ditto-cp.sourceforge.io/" target="_blank">Ditto</a>
 - <a href="https://www.dev47apps.com/droidcam/windows/">Droidcam</a>
 - <a href="https://epicpen.com/">Epic Pen</a>
 - <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a>
-  - <a href="https://www.voidtools.com/downloads/">Everything</a>
+    - <a href="https://www.voidtools.com/downloads/">Everything</a>
 - <a href="https://git-scm.com/downloads">Git bash</a>
+    - Configure git in order to stop asking for credentials every time
+        ```
+        git config --global credential.helper store
+        ```
+        ```
+        git clone "a private repository"
+        ```
+        - Enter the username and password
+        ```
+        git config --global user.email "you@example.com"
+        ```
+        ```
+        git config --global user.name "Your Name"
+        ```
 - <a href="https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe">Google Drive</a>
 - <a href="https://mh-nexus.de/en/hxd/">HxD</a>
 - <a href="https://app.prntscr.com/build/setup-lightshot.exe">Lightshot</a>
