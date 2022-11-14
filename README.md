@@ -9,8 +9,14 @@
 - <a href="https://ditto-cp.sourceforge.io/" target="_blank">Ditto</a>
 - <a href="https://www.dev47apps.com/droidcam/windows/">Droidcam</a>
 - <a href="https://epicpen.com/">Epic Pen</a>
-- <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a>
-    - <a href="https://www.voidtools.com/downloads/">Everything</a>
+- Everything Toolbar
+    - Install Everything <a href="https://www.voidtools.com/downloads/">Everything</a>
+    - Install <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a> 
+    - Right click on the task bar, hover over **Toolbar** and click away
+    - Repeat the above step but this time select everything toolbar
+    - Right click on the task bar and uncheck **Lock the taskbar**
+    - Move the magnifying glass from the right to the left and resize it to the desired size
+    - Right click on the task bar and check **Lock the taskbar**
 - <a href="https://git-scm.com/downloads">Git bash</a>
     - Configure git in order to stop asking for credentials every time
         ```
