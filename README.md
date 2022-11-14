@@ -35,8 +35,7 @@
 - <a href="https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe">Google Drive</a>
 - <a href="https://mh-nexus.de/en/hxd/">HxD</a>
 - <a href="https://app.prntscr.com/build/setup-lightshot.exe">Lightshot</a>
-- Power Toys 
-    - <a href="https://github.com/microsoft/PowerToys/releases">Downlaod</a> and install the latest stable version
+- <a href="https://github.com/microsoft/PowerToys/releases">Power Toys</a>
     - Run the applications and navigate to **Fancy zones**
         - Navigate to **Editor** and select **Launch layout editor**
             - Create the desired areas and save
