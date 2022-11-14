@@ -10,7 +10,7 @@
 - <a href="https://www.dev47apps.com/droidcam/windows/">Droidcam</a>
 - <a href="https://epicpen.com/">Epic Pen</a>
 - Everything Toolbar
-    - Install Everything <a href="https://www.voidtools.com/downloads/">Everything</a>
+    - Install <a href="https://www.voidtools.com/downloads/">Everything</a>
     - Install <a href="https://github.com/stnkl/EverythingToolbar/releases/">Everything Toolbar</a> 
     - Right click on the task bar, hover over **Toolbar** and click away
     - Repeat the above step but this time select everything toolbar
@@ -35,7 +35,13 @@
 - <a href="https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe">Google Drive</a>
 - <a href="https://mh-nexus.de/en/hxd/">HxD</a>
 - <a href="https://app.prntscr.com/build/setup-lightshot.exe">Lightshot</a>
-- <a href="https://github.com/microsoft/PowerToys/releases">Power Toys</a>
+- Power Toys 
+    - <a href="https://github.com/microsoft/PowerToys/releases">Downlaod</a> and install the latest stable version
+    - Run the applications and navigate to **Fancy zones**
+        - Navigate to **Editor** and select **Launch layout editor**
+            - Create the desired areas and save
+            - Select the edit button 
+                - Change **Space around zones** to **1px** and save 
 - <a href="https://github.com/yt-dlp/yt-dlp#release-files">Yt-dlp</a>
   - .\yt-dlp.exe -o "~/Desktop/%(title)s.%(ext)s" 'link' 
 
